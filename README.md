@@ -5,8 +5,8 @@ It is a python program to Sync subtitles. The core concept of this project is to
 Few Guidlines to use the GUI:
 
 1. srt file, the video file and this program should be in the same directory. The program does not asks to browse the drive. 
-2. Input should the same as written in the GUI window. 
-3. Don't press the forward or backward button first. Srt file shoud imported before syncing. 
+2. Input format should the same as written in the GUI window. 
+3. Don't press the forward or backward button first. Srt file needs to be imported before syncing. 
 
 Few More Things:
 
